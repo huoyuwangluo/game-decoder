@@ -1,0 +1,9 @@
+{
+    "name": "decoder",
+    "scripts": {
+        "publish": "egret build"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    }
+}
